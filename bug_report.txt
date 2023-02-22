@@ -1,1 +1,9 @@
-
+  Id: 1
+  Description: Bug
+  Steps to reproduce: Steps
+  Expected result: All right
+  Actual result: All fu@#$d up
+  Attachments: I don't have any proof
+  Priority: Blocker
+  Severity: High
+  Environment: Washtub
