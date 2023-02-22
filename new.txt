@@ -1,0 +1,6 @@
+Person Name: Andrei
+Person Surname: Zhdaniuk
+Person Patronomic: Vitalievich
+Person Age: 28
+Person number of pets: 0
+Person desired salary: 9999999999999999999999999999999999999999999$
