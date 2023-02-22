@@ -1,0 +1,5 @@
+Person skill 1: Test-cases
+Person skill 2:Terminal
+Person skill 3:JSON
+Person skill 4:Postman
+Person skill 5:SQL
